@@ -67,7 +67,7 @@ The provided HAProxy configuration file is set up to handle incoming HTTP reques
 
 ## Contributors
 
-- [Your Name]
+- Telesphore Uwabera
 
 ## License
 
